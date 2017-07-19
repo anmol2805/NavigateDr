@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "480809228163",
+    "firebase_url": "https://navigatedr.firebaseio.com",
+    "project_id": "navigatedr",
+    "storage_bucket": "navigatedr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480809228163:android:67126641fb321387",
+        "android_client_info": {
+          "package_name": "com.anmol.navigatedr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480809228163-tfvihvbaabomelm3jv9pd5ni4raugqt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPBpR2DDCPEVEM5FmfDWCxm28fu649SSc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
